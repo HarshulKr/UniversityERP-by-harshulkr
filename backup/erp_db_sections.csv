@@ -1,0 +1,6 @@
+section_id,course_id,instructor_id,day_time,room,capacity,semester,year,drop_deadline
+1,1,101,Mon/Wed 10-11:30,C01,50,Fall,2025,
+2,2,1004,tue/thu 10-11:30,c01,50,Fall,2025,2025-11-25
+3,4,1004,not fixed,c101,300,monsoon,2025,
+4,9,1004,not fixed,none,300,summer,2025,
+8,13,1004,mon/wed 4pm,gheg,1,fall,2026,2025-12-14

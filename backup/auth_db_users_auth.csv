@@ -1,0 +1,11 @@
+user_id,username,role,password_hash,status,last_login,failed_attempts,lockout_until
+1,admin1,Admin,$2a$10$.hwAvKIhd.Vz8XQYz.zI3.Q/Ore/QZfNbZnGR.D4QqZImi/c.7q4K,Active,,0,
+101,inst1,Instructor,$2a$10$R9nE.4a9oBvP2kXyZf0b2u.5lJ6c8w7m.9d3E.3f4g5H.6i7J8k9L,Active,,1,
+1001,stu1,Student,$2a$10$8/qP/68RMBkvWhOecJhz2OaNEGrc81YToAeBMw3WExid44z113J12,Active,,0,
+1002,stu2,Student,$2a$10$aBcDeFgHiJkLmNoPqRsTu.VwXyZ0123456789aBcDeFgHiJ,Active,,1,
+1003,harshul24253,Student,$2a$10$tmmk0qu7.kM47X9y.I2D6ea903EbbCgjNushOFsfH1lHO94KzqYR2,Active,,0,
+1004,inst2,Instructor,$2a$10$yaXSEBRygrZEYiAPSThPf.ujuZatmeI9cXWUSM6QLCQiFJct3e4Ja,Active,,0,
+1005,hansika24225,Student,$2a$10$g3VCVkCc2cwpY2gG/0Q6EeYdJbRNsBoWwnZKZ4FtzM/HO0xfXO.3i,Active,,0,
+1008,stu0,Student,$2a$10$WeL/MQUtoMKbCkjtz5/51.3HEXL04vusE6dnvNepJ/fW.lkqz83FC,Active,,0,
+1009,admin2,Admin,$2a$10$WpStbgFOzcM9cxB83rUEhepTTUm7iMExi788S/aXNwlRgOhSP2VGy,Active,,0,
+1010,hansika24,Student,$2a$10$zzIB4hD/z7eaEyOusesqQ.6.4zkBlc592yExiqZ0CaukQDWclJLqS,Active,,0,

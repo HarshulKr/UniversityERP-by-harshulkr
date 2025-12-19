@@ -1,0 +1,16 @@
+grade_id,enrollment_id,component,score,final_grade
+291,3,Final Exam,10.00,B
+292,3,midsem,50.00,B
+293,3,labs,100.00,B
+294,3,quiz,100.00,B
+295,21,Final Exam,100.00,A+
+296,21,midsem,100.00,A+
+297,21,labs,100.00,A+
+298,21,quiz,95.00,A+
+299,20,Final Exam,100.00,A+
+300,20,midsem,100.00,A+
+301,20,labs,100.00,A+
+302,20,quiz,55.00,A+
+306,27,Quiz/Assignments,50.00,B+
+307,27,Midterm,95.00,B+
+308,27,Final Exam,70.00,B+

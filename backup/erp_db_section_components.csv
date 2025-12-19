@@ -1,0 +1,6 @@
+section_id,component_name,weight,display_order
+2,Final Exam,20,0
+2,labs,30,2
+2,midsem,30,1
+2,quiz,10,3
+2,tutorials,10,4

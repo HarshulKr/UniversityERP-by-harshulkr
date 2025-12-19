@@ -1,0 +1,9 @@
+enrollment_id,student_id,section_id,status
+3,1008,2,Enrolled
+5,1008,3,Enrolled
+10,1008,4,Enrolled
+20,1003,2,Enrolled
+21,1005,2,Enrolled
+22,1001,2,Enrolled
+26,1003,3,Enrolled
+27,1010,8,Enrolled
